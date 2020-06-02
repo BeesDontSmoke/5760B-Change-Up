@@ -14,6 +14,10 @@
 
 using namespace vex;
 
+void test(){
+  
+}
+
 int main() {
   // Initializing Robot Configuration. DO NOT REMOVE!
   vexcodeInit();
