@@ -1,3 +1,8 @@
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// Controller1          controller                    
+// ---- END VEXCODE CONFIGURED DEVICES ----
 /*----------------------------------------------------------------------------*/
 /*                                                                            */
 /*    Module:       main.cpp                                                  */
@@ -13,6 +18,11 @@
 #include "vex.h"
 
 using namespace vex;
+
+// Remember to comment!
+
+// Drivetrain functions
+// Autonomous functions
 
 int main() {
   // Initializing Robot Configuration. DO NOT REMOVE!
